@@ -1,0 +1,2 @@
+# taskease-
+I developed "taskease" a task manager that allows users to create and manage tasks. Users can mark tasks as important, completed, or not completed. Completed tasks move to a dedicated section, while not completed tasks remain in their respective section. The front end is built using HTML, CSS, and JavaScript, and the backend is powered by MySQL and PHP. The project is managed using the XAMPP control panel.
